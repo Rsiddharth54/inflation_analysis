@@ -1,6 +1,7 @@
 # Inflation Predictions Project
 
 This project analyzes inflation data and builds predictive models for inflation rates using various economic indicators.
+Certified by the London School of Economics (LSE)
 
 ## 📁 Project Structure
 
