@@ -1,6 +1,6 @@
 # Inflation Predictions Project
 
-This project analyzes inflation data and builds predictive models for inflation rates using various economic indicators.
+This project analyzes inflation data and builds predictive models for inflation rates using various economic indicators, from the Yuan Dynasty (1271–1368).
 Certified by the London School of Economics (LSE)
 
 ## 📁 Project Structure
